@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebApp", "MyWebApp\MyWebApp.csproj", "{EC11A08B-6067-46B5-BBCC-3946113EB0CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebApp", "MyWebApp\MyWebApp.csproj", "{BA44640B-73DC-4506-ADBA-B5C2FD54C297}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EC11A08B-6067-46B5-BBCC-3946113EB0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EC11A08B-6067-46B5-BBCC-3946113EB0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EC11A08B-6067-46B5-BBCC-3946113EB0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EC11A08B-6067-46B5-BBCC-3946113EB0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA44640B-73DC-4506-ADBA-B5C2FD54C297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA44640B-73DC-4506-ADBA-B5C2FD54C297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA44640B-73DC-4506-ADBA-B5C2FD54C297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA44640B-73DC-4506-ADBA-B5C2FD54C297}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D624631D-2EF7-4227-9072-C4666B4750D9}
+		SolutionGuid = {AA05CCEA-D9CA-4610-B2A9-9158FC94C61C}
 	EndGlobalSection
 EndGlobal
